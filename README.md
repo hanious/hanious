@@ -5,7 +5,8 @@ i'm Ngoc, but call me ***hann*** !
 - i'm trying my best! ( •̀ ω •́ )✧🦕
 
 ## 👇 Languages used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanious&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanious&theme=tokyonight&langs_count=10&layout=compact)
+
 
 ## 📭 Contact me!
 - **__Email:__** izhann.toyiw@gmail.com
