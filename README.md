@@ -5,7 +5,7 @@ i'm Ngoc, but call me ***hann*** !
 - i'm trying my best! ( •̀ ω •́ )✧🦕
 
 ## 👇 Languages used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanious&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanious&theme=tokyonight&layout=compact&include_all_commits=true&count_private=true)
 
 
 ## 📭 Contact me!
