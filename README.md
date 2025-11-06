@@ -1,4 +1,4 @@
-## ~(=^ • •^)ノ hey there!
+## ~(=^ • •^)ノ hey there
 i'm Ngoc, but call me ***hann*** !
 - currently a sophomore at Swinburne University of Technology （ ￣︶￣）↗📝
 - i like making silly but helpful things ˋ( ° ▽、° )💫
